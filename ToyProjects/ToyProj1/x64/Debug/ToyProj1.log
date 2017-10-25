@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+  ToyProj1.cpp
+  stdafx.cpp
+  Generating Code...
+     Creating library C:\sourcecode\ToyProgram\ToyProjects\x64\Debug\ToyProj1.lib and object C:\sourcecode\ToyProgram\ToyProjects\x64\Debug\ToyProj1.exp
+  ToyProj1.vcxproj -> C:\sourcecode\ToyProgram\ToyProjects\x64\Debug\ToyProj1.dll
+  ToyProj1.vcxproj -> C:\sourcecode\ToyProgram\ToyProjects\x64\Debug\ToyProj1.pdb (Full PDB)
