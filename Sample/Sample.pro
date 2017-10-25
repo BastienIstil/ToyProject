@@ -1,0 +1,5 @@
+TEMPLATE = subdirs
+
+SUBDIRS += \
+    SIGNAL_SLOT_STDOUT \
+    MUTEX_STDOUT
